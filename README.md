@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 I'm Vincent and here's a little more about me:
 - I'm studying Mechanical Engineering at the University of Cincinnati
 - I am using GitHub so I can become more comfortable with code/software... especially the terminology!
